@@ -5,7 +5,7 @@ El objetivo es analizar la facturación, marcas más vendidas, productos destaca
 
 ## 📊 Vista del Dashboard
 
-![Dashboard Ventas Tech](https://raw.github.com/walternahuel02/bi-projects-collection/main/assets/Dashboard%20ventas%20tech.jpg)
+![Dashboard Ventas Tech](https://raw.github.com/walternahuel02/bi-projects-collection/main/ventas-tech.sa-/assets/Dashboard%20ventas%20tech.jpg)
 
 ## 🗂️ Estructura de los datos
 
