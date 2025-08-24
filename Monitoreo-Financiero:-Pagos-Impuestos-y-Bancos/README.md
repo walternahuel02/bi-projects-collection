@@ -5,7 +5,7 @@ El objetivo es analizar transacciones y métodos de pago por banco.
 
 ## 📊 Vista del Dashboard
 
-![Dashboard Ventas Tech](https://raw.githubusercontent.com/walternahuel02/bi-projects-collection/refs/heads/main/Monitoreo-Financiero%3A-Pagos-Impuestos-y-Bancos/assets/dashboard.jpg)
+![Dashboard Ventas Tech](https://raw.github.com/walternahuel02/bi-projects-collection/main/Monitoreo-Financiero:-Pagos-Impuestos-y-Bancos/assets/visual1.jpg)
 
 ## 🗂️ Estructura de los datos
 
@@ -30,7 +30,7 @@ El dataset contiene información de ventas con las siguientes columnas:
 - Métodos de pago: Segmentación de transacciones con tarjeta frente a otros medios, destacando su representatividad en el total.
 - Márgenes operativos: Indicador de rentabilidad expresado en porcentaje.
 
-###### nota: para el cálculo de impuestos se usó el valor ficticio de 15% por transacción.
+###### nota: para el cálculo de impuestos se usó el valor del 5% por movimiento.
 
 ## ⚙️ Tecnologías utilizadas
 
